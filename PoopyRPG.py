@@ -71,12 +71,3 @@ def introMission():
 intro()
 setStats()
 introMission()
-
-# print ("remaining " + str(remaining_points))
-# print ("int "  + str(intelligence))
-# print ("stre "  + str(strength))
-
-
-##do it work tho
-
-
